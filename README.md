@@ -23,9 +23,9 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
 
 ## Links to Spreadsheets:
 
-[1. Aromatics Extracted Data](https://drive.google.com/drive/folders/1saOw_o3kBiKnkG2kbLaeyxBrzfDppBES)
+[1. Aromatics Extracted Data](https://docs.google.com/spreadsheets/d/1JIAoRPNSveedoYODt240TP3UmBGCmFk9wOkgEFT691c/edit#gid=1616015232)
 
-[2. Aromatics Flattened Data](https://drive.google.com/drive/folders/1bBxkPSidR73LxoFsTp-B30AfA-oM4UzN)
+[2. Aromatics Flattened Data](https://docs.google.com/spreadsheets/d/1G7XslMdy7TYxIkgnUFbn5UxFgFshT4ySQw_FVcpgvqI/edit#gid=597564137)
 
      
 ## Links to Tableau Dashboard:
