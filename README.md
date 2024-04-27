@@ -12,7 +12,8 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
 
      1. Extraction of essential oils data from aromtics.com website using a python script. 
      2. "Flattening" data to make it more accessible for visual presentation. 
-     3. Tablaue dashboard containing a summary of the essential oils data extracted - can be filtered by 6 parameters.
+     3. Tablaue dashboard containing a summary of the essential oils data extracted -
+     can be filtered by 6 parameters.
 
 ## Table of Contents
 
