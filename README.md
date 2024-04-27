@@ -1,4 +1,4 @@
-# Aromatics_Essential_Oils
+# Aromatics Essential Oils
 Aromatics Essential Oils Dynamic Data Summary - Personal Project
 
    [Aromatics](https://www.aromatics.com/) 
