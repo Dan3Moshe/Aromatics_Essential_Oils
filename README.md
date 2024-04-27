@@ -3,7 +3,7 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
 
 [Aromatics](https://www.aromatics.com/) 
         is a family-owned and operated business with a growing team of people who
-               share thier dedication to support natural wellness for all.
+               share their dedication to support natural wellness for all.
                
      Founded by expert aromatherapists, is the number one place for to start exploring
      about essential oils using the wide variety of data the website presents.
