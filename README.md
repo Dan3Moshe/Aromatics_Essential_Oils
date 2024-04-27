@@ -17,9 +17,9 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
 
 ## Table of Contents
 
-  1. Extract_data_aromatics.py - Python script to extract data from the website and saving data onto a csv file.
-  2. Flattening_aromatics_data.py - Script to "flatten" the data extracted so it can be better represented in Tablue or any other BI tool.
-  3. Sort_gcms_analysis_aromtics.py - Script to sort all of the gcms results, constituents vs essential oil name.
+  1. extract_data_aromatics.py - Python script to extract data from the website and saving data onto a csv file.
+  2. flattening_aromatics_data.py - Script to "flatten" the data extracted so it can be better represented in Tablue or any other BI tool.
+  3. sort_gcms_analysis_aromtics.py - Script to sort all of the gcms results, constituents vs essential oil name.
   4. Work in progress...
 
 ## Links to Spreadsheets:
