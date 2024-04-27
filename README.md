@@ -21,7 +21,9 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
   4. Work in progress...
 
 ## Links to Spreadsheets:
+
 [1. Aromatics Extracted Data](https://drive.google.com/drive/folders/1saOw_o3kBiKnkG2kbLaeyxBrzfDppBES)
+
 [2. Aromatics Flattened Data](https://drive.google.com/drive/folders/1bBxkPSidR73LxoFsTp-B30AfA-oM4UzN)
 
      
