@@ -22,13 +22,6 @@ Aromatics Essential Oils Dynamic Data Summary - Personal Project
   3. sort_gcms_analysis_aromtics.ipynb - Script to sort all of the gcms results, constituents vs essential oil name.
   4. Work in progress...
 
-## Links to Spreadsheets:
-
-[1. Aromatics Extracted Data](https://docs.google.com/spreadsheets/d/1hhW1t1iaPNiXBR_g3Y_-hARVPFvxVqT8J7iv0gRFR50/edit#gid=1265961063)
-
-[2. Aromatics Flattened Data](https://docs.google.com/spreadsheets/d/1G7XslMdy7TYxIkgnUFbn5UxFgFshT4ySQw_FVcpgvqI/edit#gid=597564137)
-
-     
 ## Links to Tableau Dashboard:
 
    [Aromatics Essential Oils Summary](https://public.tableau.com/app/profile/dan.moshe/viz/AromaticsEssentialOilsDataSummary/AromaticsEssentialOilsDynamicDataSummary)
